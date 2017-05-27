@@ -1,0 +1,11 @@
+/* Remove promo */
+.frontpage-promo {
+    display: none;
+}
+
+/* Remove greyness. We had enough! */
+.frontpage-wrapper {
+    background-image: none !important;
+    background-color: #f48116;
+}
+
